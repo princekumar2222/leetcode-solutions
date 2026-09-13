@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 2, Medium: 7, Hard: 1)
+Solved: 11 (Easy: 2, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,7 +13,8 @@ Solved: 10 (Easy: 2, Medium: 7, Hard: 1)
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-13 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | 2026-09-13 |
 | 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays/) | Hard | 2026-09-13 |
+| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-13 |
 | 567 | [Permutation in String](567-permutation-in-string/) | Medium | 2026-09-13 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
-| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-13 |
+| 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
