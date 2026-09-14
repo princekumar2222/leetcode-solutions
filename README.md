@@ -2,10 +2,11 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 4, Medium: 8, Hard: 1)
+Solved: 14 (Easy: 5, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-09-14 |
 | 3005 | [Count Elements With Maximum Frequency](3005-count-elements-with-maximum-frequency/) | Easy | 2026-09-14 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring/) | Medium | 2026-09-14 |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium | 2026-09-14 |
@@ -18,5 +19,5 @@ Solved: 13 (Easy: 4, Medium: 8, Hard: 1)
 | 567 | [Permutation in String](567-permutation-in-string/) | Medium | 2026-09-14 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-14 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-14 |
-| 704 | [Binary Search](704-binary-search/) | Easy | 2026-09-14 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-14 |
 <!-- LEETHUB:TABLE:END -->
