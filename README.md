@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 14 (Easy: 5, Medium: 8, Hard: 1)
+Solved: 15 (Easy: 6, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,7 +17,8 @@ Solved: 14 (Easy: 5, Medium: 8, Hard: 1)
 | 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays/) | Hard | 2026-09-14 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-14 |
 | 567 | [Permutation in String](567-permutation-in-string/) | Medium | 2026-09-14 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-14 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-09-14 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-14 |
-| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-14 |
+| 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-09-14 |
 <!-- LEETHUB:TABLE:END -->
