@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 13, Medium: 19, Hard: 1)
+Solved: 34 (Easy: 14, Medium: 19, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Solved: 33 (Easy: 13, Medium: 19, Hard: 1)
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | 2026-10-02 |
 | 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays/) | Hard | 2026-10-02 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-10-02 |
+| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-10-02 |
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-10-02 |
 | 567 | [Permutation in String](567-permutation-in-string/) | Medium | 2026-10-02 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-02 |
@@ -38,5 +39,5 @@ Solved: 33 (Easy: 13, Medium: 19, Hard: 1)
 | 2545 | [Sort the Students by Their Kth Score](2545-sort-the-students-by-their-kth-score/) | Medium | 2026-10-02 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-02 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-02 |
-| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-10-02 |
+| 3959 | [Check Good Integer](3959-check-good-integer/) | Easy | 2026-10-02 |
 <!-- LEETHUB:TABLE:END -->
