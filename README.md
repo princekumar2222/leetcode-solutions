@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 43 (Easy: 21, Medium: 21, Hard: 1)
+Solved: 44 (Easy: 22, Medium: 21, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -49,4 +49,5 @@ Solved: 43 (Easy: 21, Medium: 21, Hard: 1)
 | 2545 | [Sort the Students by Their Kth Score](2545-sort-the-students-by-their-kth-score/) | Medium | 2026-10-12 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-12 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-12 |
+| 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/) | Easy | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
