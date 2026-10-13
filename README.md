@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 45 (Easy: 22, Medium: 22, Hard: 1)
+Solved: 46 (Easy: 22, Medium: 23, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Solved: 45 (Easy: 22, Medium: 22, Hard: 1)
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-10-13 |
 | 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-10-13 |
 | 374 | [Guess Number Higher or Lower](374-guess-number-higher-or-lower/) | Easy | 2026-10-13 |
+| 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-13 |
 | 532 | [K-diff Pairs in an Array](532-k-diff-pairs-in-an-array/) | Medium | 2026-10-13 |
 | 875 | [Koko Eating Bananas](875-koko-eating-bananas/) | Medium | 2026-10-13 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-10-13 |
@@ -50,5 +51,5 @@ Solved: 45 (Easy: 22, Medium: 22, Hard: 1)
 | 2545 | [Sort the Students by Their Kth Score](2545-sort-the-students-by-their-kth-score/) | Medium | 2026-10-13 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-10-13 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-13 |
-| 55 | [Jump Game](55-jump-game/) | Medium | 2026-10-13 |
+| 45 | [Jump Game II](45-jump-game-ii/) | Medium | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
