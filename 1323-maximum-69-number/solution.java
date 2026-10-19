@@ -1,4 +1,4 @@
-// 1 ms | 41.7 MB
+// 1 ms | 41.4 MB
 class Solution {
     public int maximum69Number(int num) {
         String s = String.valueOf(num);
