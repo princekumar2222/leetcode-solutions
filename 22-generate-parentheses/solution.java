@@ -1,4 +1,4 @@
-// 3 ms | 44.3 MB
+// 2 ms | 44.6 MB
 
 class Solution {
     public List<String> generateParenthesis(int n) {
