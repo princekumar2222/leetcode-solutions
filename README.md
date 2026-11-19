@@ -2,7 +2,7 @@
 My LeetCode solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 54 (Easy: 26, Medium: 27, Hard: 1)
+Solved: 55 (Easy: 27, Medium: 27, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -52,6 +52,7 @@ Solved: 54 (Easy: 26, Medium: 27, Hard: 1)
 | 567 | [Permutation in String](567-permutation-in-string/) | Medium | 2026-11-19 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-19 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-11-19 |
+| 2390 | [Removing Stars From a String](2390-removing-stars-from-a-string/) | Medium | 2026-11-19 |
 | 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-11-19 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-11-19 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-11-19 |
@@ -59,5 +60,5 @@ Solved: 54 (Easy: 26, Medium: 27, Hard: 1)
 | 2545 | [Sort the Students by Their Kth Score](2545-sort-the-students-by-their-kth-score/) | Medium | 2026-11-19 |
 | 713 | [Subarray Product Less Than K](713-subarray-product-less-than-k/) | Medium | 2026-11-19 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-19 |
-| 2390 | [Removing Stars From a String](2390-removing-stars-from-a-string/) | Medium | 2026-11-19 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-19 |
 <!-- LEETHUB:TABLE:END -->
